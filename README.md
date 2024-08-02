@@ -1,2 +1,1 @@
-# discuss
-https://gfxai.com
+Discussion threads for the gfxai.com blog
